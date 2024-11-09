@@ -15,4 +15,10 @@ The code uses Python Data Analysis (Pandas) and Matplotlib (data Wrangling and M
 
 ### Top Performers:
 #### Which track has the highest number of streams? Display the top 5 most streamed tracks.
-   - The track that has the highest number of streams is the song Blinding Lights by The Weeknd. This are the top 5 most streamed tracks.
+   - The track that has the highest number of streams is the song Blinding Lights by The Weeknd. This are the top 5 most streamed tracks. ![My logo](https://github.com/MychoTormes/Incentives/blob/a2612b5a7831ef23b46a012a372ec3882d508d55/top5%20tracks.png)
+#### Who are the top 5 most frequent artists based on the number of tracks in the dataset?
+   - The top 5 most frequent artists based on the number of tracks are Harry Styles at top 5, SZA at top 4, Bad Bunny at top 3, The Wekend at top 2, and top 1 most frequent artist among the artists in the list is Taylor Swift.
+
+### Temporal Trends:
+#### Analyze the trends in the number of tracks released over time. Plot the number of tracks released per year.
+   - The trend in number of tracks released in the year 2022 is the highest among the years listed. The more previous years are more less of tracks released in this analysis and it shows the distribution of negative skewed. 
