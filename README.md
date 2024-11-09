@@ -33,3 +33,10 @@ The code uses Python Data Analysis (Pandas) and Matplotlib (data Wrangling and M
 
 ### Platform Popularity:
 #### How do the numbers of tracks in spotify_playlists, spotify_charts, and apple_playlists compare? Which platform seems to favor the most popular tracks?
+   - The number of tracks in spotify_playlists, spotify_charts, and apple_playlists are different because there are some tracks that did not exist in some other platforms so there will be the highset number of track in all of the platforms. The platform spotify_playlists has the most popular tracks in all of the platforms stored, it shows that the spotify is the most favored platform to many.
+
+### Advanced Analysis:
+#### Based on the streams data, can you identify any patterns among tracks with the same key or mode (Major vs. Minor)?
+   - In key, pattern showed amogn tracks with the same key is binomal which it has the highest frequncy among the key in the track. The mode shows that Major has the most mode in the tracks which means the tracks is mostly has the same mode of Major.
+#### Do certain genres or artists consistently appear in more playlists or charts? Perform an analysis to compare the most frequently appearing artists in playlists or charts.
+   - Yes, the artists consistently apear in more playlists and charts as the graph is created in the code. In my analysis, The distribution of the graph is in the pattern of negativily skewed and most of the artists appear in all of the playlist and charts memtioned in the dataset showed that they really advertising their track largely in any platforms.
