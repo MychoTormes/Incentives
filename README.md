@@ -45,3 +45,9 @@ The code uses Python Data Analysis (Pandas) and Matplotlib (data Wrangling and M
    - This is the code that helped to analyze the spotify 2023 dataset.
 
          Exploratory Data Analysis.ipynb 
+
+## Reference
+
+         spotify2023.csv
+
+#### This code is created and analyzed by Mycho Tormes
