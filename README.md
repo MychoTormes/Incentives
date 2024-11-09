@@ -39,4 +39,9 @@ The code uses Python Data Analysis (Pandas) and Matplotlib (data Wrangling and M
 #### Based on the streams data, can you identify any patterns among tracks with the same key or mode (Major vs. Minor)?
    - In key, pattern showed amogn tracks with the same key is binomal which it has the highest frequncy among the key in the track. The mode shows that Major has the most mode in the tracks which means the tracks is mostly has the same mode of Major.
 #### Do certain genres or artists consistently appear in more playlists or charts? Perform an analysis to compare the most frequently appearing artists in playlists or charts.
-   - Yes, the artists consistently apear in more playlists and charts as the graph is created in the code. In my analysis, The distribution of the graph is in the pattern of negativily skewed and most of the artists appear in all of the playlist and charts memtioned in the dataset showed that they really advertising their track largely in any platforms.
+   - Yes, the artists consistently apear in more playlists and charts as the graph is created in the code. In my analysis, The distribution of the graph is in the pattern of negativily skewed and most of the artists appear in all of the playlist and charts mentioned in the dataset showed that they really advertising their track largely in any platforms.
+
+## Files
+   - This is the code that helped to analyze the spotify 2023 dataset.
+
+
